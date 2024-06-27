@@ -9,7 +9,7 @@ Example video:
 ## Setup
 - To Create your own branch run.
 ```bash
-git clone https://github.com/kshinde6804/RedditToTiktokPublic.git
+git clone https://github.com/kshinde6804/RedditToTiktokShareable.git
 cd RedditToTiktokPublic
 
 ```
