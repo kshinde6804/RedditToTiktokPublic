@@ -1,0 +1,7 @@
+click==8.1.7
+selenium
+numpy
+praw
+Pillow
+moviepy
+boto3
